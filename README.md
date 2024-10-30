@@ -17,7 +17,7 @@ Welcome to my project repository for the **Codsoft Machine Learning Internship**
    
    The IMDb dataset is an extensive database including movies, TV programs, and more. IMDb began as a fan-operated website in 1990 and moved to the web in 1993, eventually becoming a subsidiary of Amazon. This dataset includes plot summaries, genres, and other metadata for various titles.
    
-   [Learn more on IMDb](https://www.imdb.com/) 🌐
+   [Dataset link](https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb) 🌐
    </details>
 
 ### 2. **Credit Card Fraud Detection**
@@ -30,7 +30,7 @@ Welcome to my project repository for the **Codsoft Machine Learning Internship**
    
    The dataset simulates transactions using the **Sparkov Data Generator** by Brandon Harris. It includes transaction details from 1,000 customers at 800 merchants. Profiles, age ranges, and spending distributions were applied to simulate realistic transactions.
    
-   [Explore Sparkov Data Generation Tool](https://github.com/brandonharris/sparkov-data-generator) 🌐
+   [Dataset link](https://www.kaggle.com/datasets/kartik2112/fraud-detection) 🌐
    </details>
 
 ### 3. **SMS Spam Detection**
@@ -43,7 +43,7 @@ Welcome to my project repository for the **Codsoft Machine Learning Internship**
    
    The SMS Spam Collection is a set of 5,574 tagged SMS messages, collected for SMS spam research. It includes both spam and ham messages, with data contributions from sources like the **Grumbletext** website and the **NUS SMS Corpus**.
    
-   [More on the SMS Spam Collection](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset) 🌐
+   [Dataset link](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset) 🌐
    </details>
 
 ---
@@ -53,8 +53,8 @@ Welcome to my project repository for the **Codsoft Machine Learning Internship**
 To run these models locally, set up a virtual environment and install the dependencies:
 ```bash
 # Clone this repository
-git clone https://github.com/your-username/ml-internship-codsoft.git
-cd ml-internship-codsoft
+git clone https://github.com/aditi-pai04/CODSOFT_ML.git
+cd CODSOFT_ML
 
 # Create and activate a virtual environment
 python -m venv env
